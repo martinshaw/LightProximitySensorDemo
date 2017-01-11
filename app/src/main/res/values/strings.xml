@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Light &amp; Proximity Sensor Demo</string>
+
+    <string name="light_text">Expose phone to different sources of light… (Outdoors / Torch / Cover screen with hand)\n\n
+    100 to 400 - Office Lighting\n
+    400 to 4000 - Outdoors (Overcast)\n
+    4000 to 20,000 - Outdoors (Sunny)\n
+    20,000 to 100,000 - Direct Sunlight</string>
+    <string name="prox_text">Cover the front camera\'s sensor with your hand or an object…</string>
+</resources>
